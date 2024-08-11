@@ -1,6 +1,6 @@
 # 學習指引
-## 基礎知識打底[計算機網路](https://github.com/shawnhuang125/Computer_Network.md/blob/main/README.md)
-- 熟悉網路基礎：
+## 基礎知識打底
+- 熟悉網路基礎[計算機網路](https://github.com/shawnhuang125/Computer_Network.md/blob/main/README.md)：
 - 了解網路基礎概念（如 IP 地址、子網、DNS、DHCP 等）。
 - 理解域、域控制器、工作組的概念及其差異。
 - 學習 TCP/IP 協議，尤其是 DNS 的作用，因為 AD 強烈依賴 DNS 進行名稱解析。
