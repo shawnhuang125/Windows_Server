@@ -1,9 +1,9 @@
 # Windows Server 基礎
-- 1. 打開 Server Manager
+- 1.打開 Server Manager
 - 登錄到你的 Windows Server 虛擬機。
 - 打開 Server Manager（服務器管理員）。這通常會在你登錄後自動打開。如果沒有，點擊左下角的「開始」按鈕，然後選擇「Server Manager」。
 - ![螢幕擷取畫面 2024-08-20 104748](https://github.com/user-attachments/assets/8e3667f2-5825-4544-be94-d89c39182b26)
-- 2. 添加 Active Directory Domain Services 角色
+- 2.添加 Active Directory Domain Services 角色
 - 在 Server Manager 的首頁，點擊右上角的 "Manage"，然後選擇 "Add Roles and Features"（添加角色和功能）。
 - ![螢幕擷取畫面 2024-08-20 104815](https://github.com/user-attachments/assets/f4943bca-ee69-447a-b39f-017f043cf0ed)
 - 在 "Before you begin" 頁面，點擊 "Next" 繼續。
@@ -27,7 +27,7 @@
 - 在 "Confirmation"（確認）頁面，檢查要安裝的角色和功能，然後點擊 "Install" 開始安裝。
 - ![螢幕擷取畫面 2024-08-20 105150](https://github.com/user-attachments/assets/ee7044a9-bcad-4016-800f-316f5244c74c)
 
-- 3. 配置 Active Directory Domain Services
+- 3.配置 Active Directory Domain Services
 - 安裝完成後，在 Server Manager 的頂部，會看到一個通知，提示你進行更多配置。點擊 "Promote this server to a domain controller"（將此服務器提升為域控制器）。
 - ![螢幕擷取畫面 2024-08-20 105415](https://github.com/user-attachments/assets/fdf694a8-345b-4bda-a76a-0bf591331986)
 
@@ -59,7 +59,7 @@
 - 在 "Prerequisites Check" 頁面，等待預檢完成，如果沒有錯誤，點擊 "Install" 來開始安裝。
 - ![螢幕擷取畫面 2024-08-20 110217](https://github.com/user-attachments/assets/1b2456eb-e961-4cfc-a1ca-91b9a9c3d381)
 - ![螢幕擷取畫面 2024-08-20 110235](https://github.com/user-attachments/assets/a71a01d9-fec9-4f88-8f03-73ee5c6cbb6e)
-- 4. 完成安裝並重啟伺服器
+- 4.完成安裝並重啟伺服器
 
 - 安裝完成後，伺服器會自動重啟以應用更改。
 - 重啟後，伺服器將作為網域控制器運行，你可以開始配置和管理 Active Directory。
