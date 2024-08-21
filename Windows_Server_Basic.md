@@ -63,3 +63,12 @@
 
 - 安裝完成後，伺服器會自動重啟以應用更改。
 - 重啟後，伺服器將作為網域控制器運行，你可以開始配置和管理 Active Directory。
+
+- 5.確認Windows AD 的架構、配置、以及 DNS 相關的功能都是正常的。
+- 導覽列輸入CMD,按ENTER。進入Windows AD的cmd。
+```
+dcdiag /v
+```
+- ![圖片1](https://github.com/user-attachments/assets/1ea31cef-6a4e-4d07-9649-cfb19366b813)
+- ![圖片2](https://github.com/user-attachments/assets/87b5c8fd-f5dd-4c67-9ef9-d00ea6795b8e)
+
