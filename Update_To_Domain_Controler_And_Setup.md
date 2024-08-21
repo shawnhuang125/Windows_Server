@@ -1,4 +1,4 @@
-# Windows Server 基礎
+# Windows Server 升級為Domain Controler 及網域配置
 - 1.打開 Server Manager
 - 登錄到你的 Windows Server 虛擬機。
 - 打開 Server Manager（服務器管理員）。這通常會在你登錄後自動打開。如果沒有，點擊左下角的「開始」按鈕，然後選擇「Server Manager」。
