@@ -13,7 +13,7 @@
 ## 實踐操作練習
 - [安裝與配置](https://github.com/shawnhuang125/Windows_Server/blob/main/AD_DS_Setup.md)：
 - 實際安裝 Windows Server，並在虛擬機或測試環境中配置 Active Directory。
-- 熟悉 AD 的安裝步驟和基本配置，學會創建域和域控制器。
+- 熟悉 AD 的安裝步驟和[AD基本配置](https://github.com/shawnhuang125/Windows_Server/blob/main/AD_DS_Setup.md)，學會創建域和域控制器。
 - 用戶與群組管理：
 - 學習如何在 AD 中[創建用戶](https://github.com/shawnhuang125/Windows_Server/blob/main/Add_PC_To_Domain.md)、管理用戶帳戶和群組，並配置相應的權限。
 - 熟悉 ADUC 工具的使用，瞭解如何組織和管理組織單位 (OU)。
