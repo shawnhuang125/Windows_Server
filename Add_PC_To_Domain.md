@@ -31,7 +31,7 @@ ping 192.168.1.xxx
 - ![圖片9](https://github.com/user-attachments/assets/5330b103-499d-4d9b-9afd-2e5ca65098ae)
 - 3-7.雙擊「Internet 協定版本4 (TCP/IPv4)」。
 - ![圖片9](https://github.com/user-attachments/assets/7365dbaf-d644-4951-b31e-ca9a66a80dae)
-- 3-8.在「首選DNS 伺服器位址」中，輸入Windows Server 的IP 位址。
+- 3-8.在「首選DNS 伺服器位址」中，輸入Windows Server 的IP 位址。(xxxx記得改成自己設置的網域名稱,注意大小寫)
 ```
 192.168.1.xxx
 ```
@@ -39,7 +39,7 @@ ping 192.168.1.xxx
 ## 4. 確認可造訪Winodws Server的DNS伺服器,將Windows 10 加入網域
 - 4-1.進入導覽列搜尋cmd,左鍵點擊開啟
 - ![螢幕擷取畫面 2024-08-23 150515](https://github.com/user-attachments/assets/0ff2ac06-054b-427e-8be7-867aca95898a)
-- 4-2.輸入指令ping Winodws Server確認在同一個網路下可以互相通信
+- 4-2.輸入指令ping Winodws Server確認在同一個網路下可以互相通信(xxxx記得改成自己設置的網域名稱,注意大小寫)
 ```
 nslookup xxx.local
 ```
@@ -53,19 +53,17 @@ nslookup xxx.local
 ```
 Add-Computer -DomainName "xxxx.local" -Credential "xxxx\Administrator" -Force -Restart
 ```
-![螢幕擷取畫面 2024-08-23 150752](https://github.com/user-attachments/assets/f6e7d5bb-8b90-4d56-8a16-077f037e7f36)
 - 4-6.輸入管理員密碼
-- 4-7.系統自動重新啟動,應用更改設置
+- ![螢幕擷取畫面 2024-08-23 150752](https://github.com/user-attachments/assets/f6e7d5bb-8b90-4d56-8a16-077f037e7f36)
+- 4-7.系統自動重新啟動,應用已更改的設置
 - 4-8.若沒有設置用戶密碼,直接按"-->"
 - 4-9.進入後即成功加入網域
-- 5.確認PC已加入Domain
+## 5.確認PC已加入Domain
 - 5-1.進入windows server 虛擬機,登入管理員密碼
 - 5-2.進入導覽列輸入"Server Manager"
 - ![螢幕擷取畫面 2024-08-23 143231](https://github.com/user-attachments/assets/e6f8cec1-85b8-476d-b88b-6d37d9c2bdf4)
-
 - 5-3.點擊"TOOLS"
 - ![圖片1](https://github.com/user-attachments/assets/9f75b004-6c4f-46c4-b4bf-7cf72d2d11af)
-
 - 5-4.看到"Active Directory Users And Computers"
 - ![螢幕擷取畫面 2024-08-23 145501](https://github.com/user-attachments/assets/7ced7d9c-d381-41a4-a527-f9be48db68c6)
 - 5-5.點擊xxxxx.local
