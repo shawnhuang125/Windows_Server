@@ -15,7 +15,7 @@
 - 實際安裝 Windows Server，並在虛擬機或測試環境中配置 Active Directory。
 - 熟悉 AD 的安裝步驟和基本配置，學會創建域和域控制器。
 - 用戶與群組管理：
-- 學習如何在 AD 中創建、管理用戶帳戶和群組，並配置相應的權限。
+- 學習如何在 AD 中[創建用戶](https://github.com/shawnhuang125/Windows_Server/blob/main/Add_PC_To_Domain.md)、管理用戶帳戶和群組，並配置相應的權限。
 - 熟悉 ADUC 工具的使用，瞭解如何組織和管理組織單位 (OU)。
 - 群組策略 (GPO)：
 - 學習群組策略的基本概念，瞭解如何創建和應用 GPO 來管理用戶和電腦設定。
