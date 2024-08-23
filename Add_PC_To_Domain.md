@@ -28,11 +28,9 @@ ping 192.168.1.xxx
 - ![圖片4](https://github.com/user-attachments/assets/f544eca5-7e4e-416f-8e0e-e01b2f098ed1)
 
 - 3-6.記得關掉IPv6服務,確保造訪的DNS服務器為本地架設的Winodws Server的DNS服務器位址
-- ![圖片3](https://github.com/user-attachments/assets/93a36720-7601-4c7e-b7eb-0840603f3bf4)
-
+- ![圖片9](https://github.com/user-attachments/assets/5330b103-499d-4d9b-9afd-2e5ca65098ae)
 - 3-7.雙擊「Internet 協定版本4 (TCP/IPv4)」。
-- ![圖片3](https://github.com/user-attachments/assets/0f37d330-0b9c-486c-98ff-23c552a2734b)
-
+- ![圖片9](https://github.com/user-attachments/assets/7365dbaf-d644-4951-b31e-ca9a66a80dae)
 - 3-8.在「首選DNS 伺服器位址」中，輸入Windows Server 的IP 位址。
 ```
 192.168.1.xxx
