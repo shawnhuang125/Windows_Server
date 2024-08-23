@@ -40,8 +40,6 @@ ping 192.168.1.xxx
 - 4-1.進入導覽列搜尋cmd,左鍵點擊開啟
 - ![螢幕擷取畫面 2024-08-23 150515](https://github.com/user-attachments/assets/0ff2ac06-054b-427e-8be7-867aca95898a)
 - 4-2.輸入指令ping Winodws Server確認在同一個網路下可以互相通信
-- 
-- 4-2.輸入指令檢查是否可以連線至Winodws Server建置的Domain,並成功返回本地IP位址
 ```
 nslookup xxx.local
 ```
