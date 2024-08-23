@@ -57,6 +57,7 @@ Add-Computer -DomainName "xxxx.local" -Credential "xxxx\Administrator" -Force -R
 - ![螢幕擷取畫面 2024-08-23 150752](https://github.com/user-attachments/assets/f6e7d5bb-8b90-4d56-8a16-077f037e7f36)
 - 4-7.系統自動重新啟動,應用已更改的設置
 - 4-8.若沒有設置用戶密碼,直接按"-->"
+- ![圖片12](https://github.com/user-attachments/assets/657ed418-5ce1-41db-b13e-3ee6c316ed00)
 - 4-9.進入後即成功加入網域
 ## 5.確認PC已加入Domain
 - 5-1.進入windows server 虛擬機,登入管理員密碼
