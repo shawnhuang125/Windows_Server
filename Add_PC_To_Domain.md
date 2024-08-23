@@ -5,6 +5,7 @@
 - ![螢幕擷取畫面 2024-08-23 150953](https://github.com/user-attachments/assets/6dfa3412-a12f-4664-8429-55a1c82adc87)
 - 1-2.這邊是使用「橋接網路（Bridged Adapter）」模式
 - ![螢幕擷取畫面 2024-08-23 151039](https://github.com/user-attachments/assets/25fc4728-a5cf-4a52-b801-fb9c1b4283a4)
+- ![圖片8](https://github.com/user-attachments/assets/97f092f2-f1f9-4cda-b622-4f6019d5bc75)
 ## 2. 檢查網路連接
 - 2-1.在Windows 10 上，嘗試ping Windows Server 的IP 位址，以確保它們之間的網路通訊正常。
 ```
