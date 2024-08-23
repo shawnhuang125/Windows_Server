@@ -45,11 +45,11 @@ nslookup xxx.local
 ```
 - ![螢幕擷取畫面 2024-08-23 142425](https://github.com/user-attachments/assets/7cb2667a-d163-4348-8a59-04d5fd7a0b20)
 
-- 4-3.開啟導覽列,輸入Powershell
-- ![螢幕擷取畫面 2024-08-23 150705](https://github.com/user-attachments/assets/062f7975-8806-48b2-8797-0282191f1000)
+- 4-3.開啟導覽列,搜尋Powershell
+- ![螢幕擷取畫面 2024-08-23 160042](https://github.com/user-attachments/assets/e6267a8b-c6f3-462f-997a-8914f486329f)
 - 4-4.右鍵點擊,選擇"以管理員身分執行"
-![螢幕擷取畫面 2024-08-23 150705](https://github.com/user-attachments/assets/c8fdcaad-9bca-417f-92f7-d88bcf05042b)
-- 4-5.輸入指令加入Domain
+- ![圖片11](https://github.com/user-attachments/assets/fede72a4-62d0-4373-be22-23e78ba303b1)
+- 4-5.輸入以下指令加入Domain(xxxx記得改成自己設置的網域名稱,注意大小寫)
 ```
 Add-Computer -DomainName "xxxx.local" -Credential "xxxx\Administrator" -Force -Restart
 ```
