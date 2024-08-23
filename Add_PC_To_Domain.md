@@ -50,11 +50,11 @@ nslookup xxx.local
 - 4-4.右鍵點擊,選擇"以管理員身分執行"
 ![螢幕擷取畫面 2024-08-23 150705](https://github.com/user-attachments/assets/c8fdcaad-9bca-417f-92f7-d88bcf05042b)
 - 4-5.輸入指令加入Domain
-- 4-6.輸入管理員密碼
 ```
 Add-Computer -DomainName "xxxx.local" -Credential "xxxx\Administrator" -Force -Restart
 ```
 ![螢幕擷取畫面 2024-08-23 150752](https://github.com/user-attachments/assets/f6e7d5bb-8b90-4d56-8a16-077f037e7f36)
+- 4-6.輸入管理員密碼
 - 4-7.系統自動重新啟動,應用更改設置
 - 4-8.若沒有設置用戶密碼,直接按"-->"
 - 4-9.進入後即成功加入網域
