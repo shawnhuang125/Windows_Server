@@ -11,7 +11,7 @@
 - 了解 Active Directory 的基本結構，包括域、樹、森林、組織單位 (OU)、用戶、組、電腦等。
 - 學習 LDAP 協議的基本概念，因為 AD 使用 LDAP 進行目錄服務。
 ## 實踐操作練習
-- 安裝與配置：
+- [安裝與配置](https://github.com/shawnhuang125/Windows_Server/blob/main/AD_DS_Setup.md)：
 - 實際安裝 Windows Server，並在虛擬機或測試環境中配置 Active Directory。
 - 熟悉 AD 的安裝步驟和基本配置，學會創建域和域控制器。
 - 用戶與群組管理：
