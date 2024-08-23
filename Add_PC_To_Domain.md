@@ -3,7 +3,6 @@
 - 網路模式：確保Windows 10 和Windows Server 虛擬機器都連接到同一個網路。可使用VirtualBox 的「內部網路（Internal Network）」或「橋接網路（Bridged Adapter）」模式。
 - 1-1.進入虛擬機設置後,找到"網路",選擇「橋接網路（Bridged Adapter）」,然後選擇自己電腦的有線網路介面卡
 - ![螢幕擷取畫面 2024-08-23 150953](https://github.com/user-attachments/assets/6dfa3412-a12f-4664-8429-55a1c82adc87)
-- 
 - 1-2.這邊是使用「橋接網路（Bridged Adapter）」模式
 - ![螢幕擷取畫面 2024-08-23 151039](https://github.com/user-attachments/assets/25fc4728-a5cf-4a52-b801-fb9c1b4283a4)
 ## 2. 檢查網路連接
