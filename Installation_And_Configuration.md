@@ -1,6 +1,6 @@
-# Windows Server 安裝與配置
+# Windows Server 2022安裝與配置
 ## 安裝指南 | [教學影片](https://youtu.be/63Td9WMdM4E)
-### 安裝 Windows Server OVA | [Winodws Server 2022官方網站](https://www.microsoft.com/zh-tw/evalcenter/download-windows-server-2022)
+### 安裝 Windows Server 2022 OVA | [Winodws Server 2022官方網站](https://www.microsoft.com/zh-tw/evalcenter/download-windows-server-2022)
 - OVA基本配置
 - ![image](https://github.com/user-attachments/assets/96806c41-b2e9-4a2b-a76b-3ba3a69e6674)
 - 導入下載好的ISO檔
@@ -14,7 +14,7 @@
 - ![image](https://github.com/user-attachments/assets/a93199ea-952e-47b1-8b28-89d18f5f9c39)
 - ![image](https://github.com/user-attachments/assets/15804629-7e98-4b96-943c-3bec43ea34a6)
 - ![image](https://github.com/user-attachments/assets/8bc1a1af-8ad0-4fcd-8434-1961c5188b69)
-- 啟動後，將進入 Windows Server 的安裝界面。選擇安裝語言、時區和鍵盤配置。
+- 啟動後，將進入 Windows Server 2022的安裝界面。選擇安裝語言、時區和鍵盤配置。
 - 選擇磁碟：選擇要安裝的磁碟，如果需要，您可以分區或格式化磁碟。
 - ![image](https://github.com/user-attachments/assets/2593e65f-c9d2-4c7b-99a4-4497e3b44dc4)
 - 開始安裝：確認安裝配置後，安裝程序將開始將 Windows Server 安裝到指定磁碟。
