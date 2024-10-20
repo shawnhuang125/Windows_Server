@@ -8,6 +8,8 @@
 
 - ![螢幕擷取畫面 2024-10-20 101037](https://github.com/user-attachments/assets/2a600967-7848-40e1-b2aa-4654012cf149)
 - ![螢幕擷取畫面 2024-10-20 101049](https://github.com/user-attachments/assets/2643d127-5d6d-47da-a887-cdf5813c69c2)
+- ![image](https://github.com/user-attachments/assets/64d500d5-2bb3-40db-9c08-4f70d8b0c26d)
+
 - ![image](https://github.com/user-attachments/assets/854a7178-e863-46d0-a347-48c07e3ce62d)
 - ![image](https://github.com/user-attachments/assets/a4f25365-5200-493d-a26e-6bdada8f0e06)
 - ![image](https://github.com/user-attachments/assets/4d295b70-5d36-4c25-9f25-09baa0d34d30)
