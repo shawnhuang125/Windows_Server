@@ -4,14 +4,14 @@
 - 導入下載好的ISO檔
 - ![image](https://github.com/user-attachments/assets/96806c41-b2e9-4a2b-a76b-3ba3a69e6674)
 - ![image](https://github.com/user-attachments/assets/025e1d16-ee2e-401c-ba98-c3343e638d21)
-- 啟動後，將進入 Windows Server 的安裝界面。選擇安裝語言、時區和鍵盤配置。
 - ![image](https://github.com/user-attachments/assets/854a7178-e863-46d0-a347-48c07e3ce62d)
-- ![image](https://github.com/user-attachments/assets/dd24640d-649a-4dca-8fcc-782058fe5644)
+- ![image](https://github.com/user-attachments/assets/a4f25365-5200-493d-a26e-6bdada8f0e06)
+
 - ![image](https://github.com/user-attachments/assets/4d295b70-5d36-4c25-9f25-09baa0d34d30)
 - ![image](https://github.com/user-attachments/assets/a93199ea-952e-47b1-8b28-89d18f5f9c39)
 - ![image](https://github.com/user-attachments/assets/15804629-7e98-4b96-943c-3bec43ea34a6)
 - ![image](https://github.com/user-attachments/assets/8bc1a1af-8ad0-4fcd-8434-1961c5188b69)
-- 
+- 啟動後，將進入 Windows Server 的安裝界面。選擇安裝語言、時區和鍵盤配置。
 - 選擇磁碟：選擇要安裝的磁碟，如果需要，您可以分區或格式化磁碟。
 - ![image](https://github.com/user-attachments/assets/2593e65f-c9d2-4c7b-99a4-4497e3b44dc4)
 - 開始安裝：確認安裝配置後，安裝程序將開始將 Windows Server 安裝到指定磁碟。
