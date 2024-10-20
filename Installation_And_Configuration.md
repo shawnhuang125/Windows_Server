@@ -1,5 +1,5 @@
 # Windows Server 安裝與配置
-## 安裝指南
+## 安裝指南 | [交學影片](https://youtu.be/63Td9WMdM4E)
 ### 安裝 Windows Server OVA | [Winodws Server 2022官方網站](https://www.microsoft.com/zh-tw/evalcenter/download-windows-server-2022)
 - OVA基本配置
 - ![image](https://github.com/user-attachments/assets/96806c41-b2e9-4a2b-a76b-3ba3a69e6674)
