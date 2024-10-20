@@ -1,15 +1,12 @@
 # Windows Server 安裝與配置
 ## 安裝指南
-### 1.從 Microsoft 官方網站下載
-- 訪問 Microsoft 官方網站：
-- 前往 Windows Server 評估中心。
-- 選擇 Windows Server 版本：
-- 您可以選擇不同的 Windows Server 版本（例如：Windows Server 2019 或 Windows Server 2022）。
-- 點擊您要下載的版本。
-- 註冊並下載：
-- 您可能需要用 Microsoft 賬號登錄並註冊才能下載 ISO 檔案。
-- 選擇 “ISO” 作為下載格式。
-- 提交註冊信息後，您將獲得下載鏈接。
+### 1.從 [Microsoft 官方網站](https://www.microsoft.com/zh-tw/evalcenter/download-windows-server-2022)下載
+- 訪問 [Microsoft 官方網站](https://www.microsoft.com/zh-tw/evalcenter/download-windows-server-2022)：
+- ![image](https://github.com/user-attachments/assets/89494bbc-3fd3-49ee-a0fb-f1f42215936d)
+- 典籍下載後可能會需要註冊才能下載(點擊下載後,若直接開始下載請忽略)
+  - 您可能需要用 Microsoft 賬號登錄並註冊才能下載 ISO 檔案。
+  - 選擇 “ISO” 作為下載格式。
+  - 提交註冊信息後，您將獲得下載鏈接。
 ### 2.創建啟動媒體
 - 您需要將 ISO 檔寫入到 USB 驅動器或 DVD，以便用來啟動和安裝 Windows Server。
 - 使用 USB 驅動器
