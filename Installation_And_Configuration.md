@@ -10,7 +10,6 @@
 - ![image](https://github.com/user-attachments/assets/4d295b70-5d36-4c25-9f25-09baa0d34d30)
 - ![image](https://github.com/user-attachments/assets/a93199ea-952e-47b1-8b28-89d18f5f9c39)
 - ![image](https://github.com/user-attachments/assets/15804629-7e98-4b96-943c-3bec43ea34a6)
-- ![image](https://github.com/user-attachments/assets/ecf2c0af-b7c4-4fe7-94ba-7e8f261d80d0)
 - ![image](https://github.com/user-attachments/assets/8bc1a1af-8ad0-4fcd-8434-1961c5188b69)
 - 
 - 選擇磁碟：選擇要安裝的磁碟，如果需要，您可以分區或格式化磁碟。
