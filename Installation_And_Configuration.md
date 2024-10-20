@@ -17,6 +17,17 @@
 - ![image](https://github.com/user-attachments/assets/2593e65f-c9d2-4c7b-99a4-4497e3b44dc4)
 - 開始安裝：確認安裝配置後，安裝程序將開始將 Windows Server 安裝到指定磁碟。
 - ![image](https://github.com/user-attachments/assets/aefbe514-20ff-4035-97e5-b6d526c72b78)
+- 安裝完成會自動重新啟動
+- ![image](https://github.com/user-attachments/assets/eabe99b0-1d68-4591-8fae-cff7f3e08a5a)
+- 自訂義管理員密碼
+- ![image](https://github.com/user-attachments/assets/712fda0d-9925-4b26-a76b-a079ada60baa)
+- 設定完成
+- ![image](https://github.com/user-attachments/assets/9ec53f9f-2dc4-4849-b416-605d68447581)
+- 登入
+- ![image](https://github.com/user-attachments/assets/93df5543-a2ad-4bd6-bb96-3d5f8fc03fb3)
+- 輸入事先定義好的管理員密碼
+- ![image](https://github.com/user-attachments/assets/5b27212b-1de5-4374-984c-ead895fe3f5c)
+
 ### 1.從 [Microsoft 官方網站](https://www.microsoft.com/zh-tw/evalcenter/download-windows-server-2022)下載
 - 訪問 [Microsoft 官方網站](https://www.microsoft.com/zh-tw/evalcenter/download-windows-server-2022)：
 - ![image](https://github.com/user-attachments/assets/89494bbc-3fd3-49ee-a0fb-f1f42215936d)
