@@ -26,5 +26,11 @@
 - ![image](https://github.com/user-attachments/assets/93df5543-a2ad-4bd6-bb96-3d5f8fc03fb3)
 - 輸入事先定義好的管理員密碼
 - ![image](https://github.com/user-attachments/assets/5b27212b-1de5-4374-984c-ead895fe3f5c)
+- 進入後確認網路配置
+- ![image](https://github.com/user-attachments/assets/413284a6-b0ca-4136-9cc7-e9b610760f4a)
+- 自動進入Server Manager
+- ![image](https://github.com/user-attachments/assets/a3978fd0-47d2-4378-8d21-5a90c345c061)
+
+
 
 
