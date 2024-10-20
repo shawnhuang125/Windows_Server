@@ -7,7 +7,7 @@
   - 您可能需要用 Microsoft 賬號登錄並註冊才能下載 ISO 檔案。
   - 選擇 “ISO” 作為下載格式。
   - 提交註冊信息後，您將獲得下載鏈接。
-### 2.創建啟動媒體
+### 2.創建啟動媒體(灌PC)
 - 您需要將 ISO 檔寫入到 USB 驅動器或 DVD，以便用來啟動和安裝 Windows Server。
 - 使用 USB 驅動器
 - 準備 USB 驅動器：需要一個容量至少為 8GB 的 USB 驅動器，並確保驅動器裡的數據已經備份，因為創建過程會格式化它。
@@ -22,12 +22,29 @@
 - 設置啟動順序：在 BIOS/UEFI 中，將 USB 驅動器或 DVD 設置為首選啟動設備。
 - 保存並重啟：保存 BIOS/UEFI 設置並重啟服務器，系統將從您創建的啟動媒體啟動。
 ### 4.開始安裝 Windows Server
-- 選擇安裝類型：啟動後，您將進入 Windows Server 的安裝界面。選擇安裝語言、時區和鍵盤配置。
+- 選擇安裝類型：啟動後，將進入 Windows Server 的安裝界面。選擇安裝語言、時區和鍵盤配置。
 - 輸入產品金鑰：根據要求輸入 Windows Server 的產品金鑰（有些版本可能會跳過這一步）。
 - 選擇安裝版本：選擇要安裝的版本（例如：標準版、數據中心版等），並決定是否安裝帶桌面體驗的版本。
 - 選擇安裝類型：選擇 “自訂：僅安裝 Windows (進階)” 以執行全新安裝。
 - 選擇磁碟：選擇要安裝的磁碟，如果需要，您可以分區或格式化磁碟。
 - 開始安裝：確認安裝配置後，安裝程序將開始將 Windows Server 安裝到指定磁碟。
+### 安裝 Windows Server OVA
+- 導入下載好的ISO檔
+- ![image](https://github.com/user-attachments/assets/96806c41-b2e9-4a2b-a76b-3ba3a69e6674)
+- ![image](https://github.com/user-attachments/assets/025e1d16-ee2e-401c-ba98-c3343e638d21)
+- 啟動後，將進入 Windows Server 的安裝界面。選擇安裝語言、時區和鍵盤配置。
+- ![image](https://github.com/user-attachments/assets/854a7178-e863-46d0-a347-48c07e3ce62d)
+- ![image](https://github.com/user-attachments/assets/dd24640d-649a-4dca-8fcc-782058fe5644)
+- ![image](https://github.com/user-attachments/assets/4d295b70-5d36-4c25-9f25-09baa0d34d30)
+- ![image](https://github.com/user-attachments/assets/a93199ea-952e-47b1-8b28-89d18f5f9c39)
+- ![image](https://github.com/user-attachments/assets/15804629-7e98-4b96-943c-3bec43ea34a6)
+- ![image](https://github.com/user-attachments/assets/ecf2c0af-b7c4-4fe7-94ba-7e8f261d80d0)
+- ![image](https://github.com/user-attachments/assets/8bc1a1af-8ad0-4fcd-8434-1961c5188b69)
+- 
+- 選擇磁碟：選擇要安裝的磁碟，如果需要，您可以分區或格式化磁碟。
+- ![image](https://github.com/user-attachments/assets/2593e65f-c9d2-4c7b-99a4-4497e3b44dc4)
+- 開始安裝：確認安裝配置後，安裝程序將開始將 Windows Server 安裝到指定磁碟。
+- ![image](https://github.com/user-attachments/assets/aefbe514-20ff-4035-97e5-b6d526c72b78)
 ## 配置
 ### 5.完成初始配置
 - 設置管理員帳戶：安裝完成後，系統會要求您設置管理員帳戶密碼。
